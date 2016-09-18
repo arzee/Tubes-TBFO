@@ -1,0 +1,14 @@
+OFF | OFF | OFF | OFF | 0000 | 00 |
+OFF | OFF | OFF | OFF | 1000 | 01 |
+OFF | OFF | OFF | OFF | 2000 | 02 |
+ON | OFF | OFF | OFF | 3000 | 03 |
+OFF | ON | OFF | OFF | 4000 | 04 |
+OFF | OFF | OFF | OFF | 5000 | 05 |
+OFF | OFF | ON | OFF | 6000 | 06 |
+OFF | OFF | OFF | OFF | 7000 | 07 |
+OFF | OFF | OFF | OFF | 8000 | 08 |
+OFF | OFF | OFF | OFF | 9000 | 09 |
+OFF | OFF | OFF | OFF | 10000 | 10 |
+OFF | OFF | OFF | ON | 2000 | 11 |
+OFF | OFF | OFF | ON | 5000 | 12 |
+OFF | OFF | OFF | ON | 10000 | 13 |
